@@ -49,6 +49,8 @@ A collection of useful Android resources
 
 [Android Studio Shortcuts (navigation)](http://www.developerphil.com/android-studio-tips-tricks-moving-around/)
 
+[Android Studio Shortcuts - Bruno Oliveira](https://plus.google.com/+BrunoOliveira/posts/bcdYVwg5ez6)
+
 [Android Studio Shortcuts 1/6](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/)
 
 [Android Studio Shortcuts 2/6](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-2/)
