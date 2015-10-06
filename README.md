@@ -75,6 +75,8 @@ A collection of useful Android resources
 
 [The Busy Coder's Guide to Android Development (CommonsWare)](http://commonsware.com/Android/)
 
+[Android Cheat Sheet (Treehouse)](http://treehouse-cheatsheets.s3.amazonaws.com/android_island1_cheat_sheet.html)
+
 ### <a name="Videos"></a>Videos
 
 [Romain Guy's Talk on Speeding up the Android UI](https://www.youtube.com/watch?v=UApv-ZMJ51g)
