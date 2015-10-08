@@ -89,6 +89,14 @@ A collection of useful Android resources
 
 [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed)
 
+### <a name="Podcasts"></a>Podcasts
+
+[Android Developers Backstage Podcast](http://androidbackstage.blogspot.co.uk/)
+
+[Fragmented Podcast](http://fragmentedpodcast.com/)
+
+[Developer Tea Podcast](https://www.developertea.com/)
+
 ### <a name="Libraries"></a>Libraries
 
 [Android Arsenal (to look up libraries)](https://android-arsenal.com/)
