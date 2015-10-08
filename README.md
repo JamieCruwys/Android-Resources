@@ -85,6 +85,10 @@ A collection of useful Android resources
 
 [Romain Guy's Talk on Speeding up the Android UI](https://www.youtube.com/watch?v=UApv-ZMJ51g)
 
+[Android Developers Youtube Channel](https://www.youtube.com/user/androiddevelopers)
+
+[Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed)
+
 ### <a name="Libraries"></a>Libraries
 
 [Android Arsenal (to look up libraries)](https://android-arsenal.com/)
