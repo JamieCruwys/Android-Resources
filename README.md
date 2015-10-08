@@ -31,6 +31,8 @@ A collection of useful Android resources
 
 [Android Studio Recent Changes](https://sites.google.com/a/android.com/tools/recent)
 
+[Chet Haase's Blog](http://graphics-geek.blogspot.co.uk/)
+
 ### <a name="Articles"></a>Articles
 
 [Objc.io's issue on Android](https://www.objc.io/issues/11-android/)
