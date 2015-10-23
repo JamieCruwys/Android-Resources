@@ -111,6 +111,10 @@ A collection of useful Android resources
 
 [Android Icons](http://www.androidicons.com/)
 
+[Material Design Color Palette](http://www.materialpalette.com/)
+
+[Free high-resolution photos](https://unsplash.com/)
+
 ### <a name="Patterns"></a>Patterns
 
 [Android Patterns](http://unitid.nl/androidpatterns/)
