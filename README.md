@@ -83,6 +83,8 @@ A collection of useful Android resources
 
 [The Busy Coder's Guide to Android Development (CommonsWare)](http://commonsware.com/Android/)
 
+[Google Developer Codelabs](https://codelabs.developers.google.com/)
+
 [Android Cheat Sheet (Treehouse)](http://treehouse-cheatsheets.s3.amazonaws.com/android_island1_cheat_sheet.html)
 
 ### <a name="Videos"></a>Videos
