@@ -37,6 +37,8 @@ A collection of useful Android resources
 
 [Clean Coder Blog](http://blog.cleancoder.com/)
 
+[Callum Taylor's Blog](http://blog.callumtaylor.net/)
+
 ### <a name="Articles"></a>Articles
 
 [Objc.io's issue on Android](https://www.objc.io/issues/11-android/)
