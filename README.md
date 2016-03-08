@@ -123,6 +123,8 @@ A collection of useful Android resources
 
 [Icomoon](https://icomoon.io/)
 
+[Flat Icon](http://www.flaticon.com/)
+
 ### <a name="Patterns"></a>Patterns
 
 [Android Patterns](http://unitid.nl/androidpatterns/)
