@@ -47,6 +47,8 @@ A collection of useful Android resources
 
 [AndroidDev Reddit](https://www.reddit.com/r/androiddev/)
 
+[Styling android](https://blog.stylingandroid.com/)
+
 ### <a name="Articles"></a>Articles
 
 [Objc.io's issue on Android](https://www.objc.io/issues/11-android/)
