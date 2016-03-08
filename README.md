@@ -119,6 +119,10 @@ A collection of useful Android resources
 
 [Free high-resolution photos](https://unsplash.com/)
 
+[Icons 8](https://icons8.com/)
+
+[Icomoon](https://icomoon.io/)
+
 ### <a name="Patterns"></a>Patterns
 
 [Android Patterns](http://unitid.nl/androidpatterns/)
