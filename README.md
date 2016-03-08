@@ -47,7 +47,9 @@ A collection of useful Android resources
 
 [AndroidDev Reddit](https://www.reddit.com/r/androiddev/)
 
-[Styling android](https://blog.stylingandroid.com/)
+[Styling Android](https://blog.stylingandroid.com/)
+
+[Dan Lew's Blog](http://blog.danlew.net/)
 
 ### <a name="Articles"></a>Articles
 
