@@ -33,6 +33,10 @@ A collection of useful Android resources
 
 [Chet Haase's Blog](http://graphics-geek.blogspot.co.uk/)
 
+[Pixplicity's Blog](https://pixplicity.com/)
+
+[Clean Coder Blog](http://blog.cleancoder.com/)
+
 ### <a name="Articles"></a>Articles
 
 [Objc.io's issue on Android](https://www.objc.io/issues/11-android/)
