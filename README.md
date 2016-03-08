@@ -39,6 +39,14 @@ A collection of useful Android resources
 
 [Callum Taylor's Blog](http://blog.callumtaylor.net/)
 
+[Google Developer Experts (Medium)](https://medium.com/google-developer-experts)
+
+[Android (Medium)](https://medium.com/tag/android)
+
+[Android Weekly](http://androidweekly.net/)
+
+[AndroidDev Reddit](https://www.reddit.com/r/androiddev/)
+
 ### <a name="Articles"></a>Articles
 
 [Objc.io's issue on Android](https://www.objc.io/issues/11-android/)
