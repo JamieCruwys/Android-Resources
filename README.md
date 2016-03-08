@@ -51,6 +51,8 @@ A collection of useful Android resources
 
 [Dan Lew's Blog](http://blog.danlew.net/)
 
+[The CommonsBlog](https://commonsware.com/blog/)
+
 ### <a name="Articles"></a>Articles
 
 [Objc.io's issue on Android](https://www.objc.io/issues/11-android/)
