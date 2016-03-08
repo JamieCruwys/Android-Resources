@@ -125,6 +125,8 @@ A collection of useful Android resources
 
 [Flat Icon](http://www.flaticon.com/)
 
+[Pexels Free Stock Photos](https://www.pexels.com/)
+
 ### <a name="Patterns"></a>Patterns
 
 [Android Patterns](http://unitid.nl/androidpatterns/)
