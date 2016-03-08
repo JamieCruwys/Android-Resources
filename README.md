@@ -123,7 +123,7 @@ A collection of useful Android resources
 
 ### <a name="Events"></a>Events
 
-[DroidCon (2015)](https://skillsmatter.com/conferences/6712-droidcon-2015)
-
+[DroidCon London (2015)](https://skillsmatter.com/conferences/6712-droidcon-2015)
+[DroidCon NYC](http://droidcon.nyc/)
 
 
