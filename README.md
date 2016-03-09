@@ -55,6 +55,8 @@ A collection of useful Android resources
 
 [Coding Horror Blog](https://blog.codinghorror.com/)
 
+[KioDev Blog](http://www.kiodev.com/)
+
 ### <a name="Articles"></a>Articles
 
 [Objc.io's issue on Android](https://www.objc.io/issues/11-android/)
