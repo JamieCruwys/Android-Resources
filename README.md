@@ -53,6 +53,8 @@ A collection of useful Android resources
 
 [The CommonsBlog](https://commonsware.com/blog/)
 
+[Coding Horror Blog](https://blog.codinghorror.com/)
+
 ### <a name="Articles"></a>Articles
 
 [Objc.io's issue on Android](https://www.objc.io/issues/11-android/)
