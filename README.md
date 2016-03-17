@@ -16,6 +16,7 @@ A collection of useful Android resources
 * [Assets](#Assets)
 * [Patterns](#Patterns)
 * [Events](#Events)
+* [Tools](#Tools)
 
 ### <a name="Blogs"></a>Blogs
 
