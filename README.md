@@ -53,6 +53,8 @@ A collection of useful Android resources
 
 [KioDev Blog](http://www.kiodev.com/)
 
+[Chris Bane's Blog](https://chris.banes.me/)
+
 ### <a name="Medium"></a>Medium ###
 
 [Google Developer Experts (Medium)](https://medium.com/google-developer-experts)
