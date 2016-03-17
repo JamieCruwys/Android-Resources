@@ -198,3 +198,9 @@ A collection of useful Android resources
 [DroidCon London (2015)](https://skillsmatter.com/conferences/6712-droidcon-2015)
 
 [DroidCon NYC](http://droidcon.nyc/)
+
+### <a name="Tools"></a>Tools
+
+[Vysor](http://www.vysor.io/)
+
+[Device Art Generator](https://developer.android.com/distribute/tools/promote/device-art.html)
