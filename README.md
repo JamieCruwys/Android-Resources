@@ -55,6 +55,16 @@ A collection of useful Android resources
 
 [Chris Bane's Blog](https://chris.banes.me/)
 
+[Riggaroo's Blog](http://riggaroo.co.za/)
+
+[Udinic's Blog](http://blog.udinic.com/)
+
+[Vincent Brison's Blog](http://vincentbrison.com/)
+
+[Flavien Laurent's Blog](http://flavienlaurent.com/)
+
+[Saúl Molinero's Blog](https://saulmm.github.io/)
+
 ### <a name="Medium"></a>Medium ###
 
 [Google Developer Experts (Medium)](https://medium.com/google-developer-experts)
