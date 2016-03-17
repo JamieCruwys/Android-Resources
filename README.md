@@ -3,6 +3,9 @@ A collection of useful Android resources
 
 ### Table of contents
 * [Blogs](#Blogs)
+* [Medium](#Medium)
+* [Reddit](#Reddit)
+* [Emails](#Emails)
 * [Articles](#Articles)
 * [Shortcuts](#Shortcuts)
 * [Plugins](#Plugins)
@@ -39,16 +42,6 @@ A collection of useful Android resources
 
 [Callum Taylor's Blog](http://blog.callumtaylor.net/)
 
-[Google Developer Experts (Medium)](https://medium.com/google-developer-experts)
-
-[Android (Medium)](https://medium.com/tag/android)
-
-[Android News (Medium)](https://medium.com/android-news)
-
-[Android Weekly](http://androidweekly.net/)
-
-[AndroidDev Reddit](https://www.reddit.com/r/androiddev/)
-
 [Styling Android](https://blog.stylingandroid.com/)
 
 [Dan Lew's Blog](http://blog.danlew.net/)
@@ -58,6 +51,24 @@ A collection of useful Android resources
 [Coding Horror Blog](https://blog.codinghorror.com/)
 
 [KioDev Blog](http://www.kiodev.com/)
+
+### <a name="Medium"></a>Medium ###
+
+[Google Developer Experts (Medium)](https://medium.com/google-developer-experts)
+
+[Android (Medium)](https://medium.com/tag/android)
+
+[Android News (Medium)](https://medium.com/android-news)
+
+### <a name="Reddit"></a>Reddit ###
+
+[AndroidDev Reddit](https://www.reddit.com/r/androiddev/)
+
+### <a name="Emails"></a>Emails ###
+
+[Android Weekly](http://androidweekly.net/)
+
+[Android Dev Digest](https://www.androiddevdigest.com/)
 
 ### <a name="Articles"></a>Articles
 
