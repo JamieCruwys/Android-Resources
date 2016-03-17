@@ -69,6 +69,12 @@ A collection of useful Android resources
 
 [Android Developers Google Plus](https://plus.google.com/+AndroidDevelopers)
 
+[Jake Wharton Google Plus](https://plus.google.com/+JakeWharton)
+
+[Tor Norbye Google Plus](https://plus.google.com/+TorNorbye)
+
+[Chet Haase Google Plus](https://plus.google.com/+ChetHaase)
+
 ### <a name="Emails"></a>Emails ###
 
 [Android Weekly](http://androidweekly.net/)
