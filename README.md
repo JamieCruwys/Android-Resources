@@ -159,6 +159,8 @@ A collection of useful Android resources
 
 [Developer Tea Podcast](https://www.developertea.com/)
 
+[Autocomplete](http://autocomplete.fm/)
+
 ### <a name="Libraries"></a>Libraries
 
 [Android Arsenal (to look up libraries)](https://android-arsenal.com/)
