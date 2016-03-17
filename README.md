@@ -43,6 +43,8 @@ A collection of useful Android resources
 
 [Android (Medium)](https://medium.com/tag/android)
 
+[Android News (Medium)](https://medium.com/android-news)
+
 [Android Weekly](http://androidweekly.net/)
 
 [AndroidDev Reddit](https://www.reddit.com/r/androiddev/)
