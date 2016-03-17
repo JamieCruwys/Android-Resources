@@ -5,6 +5,7 @@ A collection of useful Android resources
 * [Blogs](#Blogs)
 * [Medium](#Medium)
 * [Reddit](#Reddit)
+* [Social](#Social)
 * [Emails](#Emails)
 * [Articles](#Articles)
 * [Shortcuts](#Shortcuts)
@@ -63,6 +64,10 @@ A collection of useful Android resources
 ### <a name="Reddit"></a>Reddit ###
 
 [AndroidDev Reddit](https://www.reddit.com/r/androiddev/)
+
+### <a name="Social"></a>Social ###
+
+[Android Developers Google Plus](https://plus.google.com/+AndroidDevelopers)
 
 ### <a name="Emails"></a>Emails ###
 
