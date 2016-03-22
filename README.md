@@ -76,6 +76,8 @@ A collection of useful Android resources
 
 [Android News (Medium)](https://medium.com/android-news)
 
+[Orhan Obut (Medium)](https://medium.com/@orhanobut)
+
 ### <a name="Reddit"></a>Reddit ###
 
 [AndroidDev Reddit](https://www.reddit.com/r/androiddev/)
