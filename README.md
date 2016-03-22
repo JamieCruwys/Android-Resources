@@ -110,6 +110,8 @@ A collection of useful Android resources
 
 [Parcelable vs Serializable](http://www.developerphil.com/parcelable-vs-serializable/)
 
+[Pictures from a developer's life](http://www.onemenny.com/blog/pictures-from-a-developers-life/)
+
 ### <a name="Shortcuts"></a>Shortcuts
 
 [Android Studio Shortcuts (navigation)](http://www.developerphil.com/android-studio-tips-tricks-moving-around/)
