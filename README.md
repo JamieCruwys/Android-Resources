@@ -134,6 +134,18 @@ A collection of useful Android resources
 
 [Android Parcelable IntelliJ Plugin](https://github.com/mcharmas/android-parcelable-intellij-plugin)
 
+[ADB Idea](https://github.com/pbreault/adb-idea)
+
+[Android Butterknife Zelezny](https://github.com/avast/android-butterknife-zelezny)
+
+[Android Parcelable Code Generator](https://github.com/mcharmas/android-parcelable-intellij-plugin)
+
+[Hungry Backspace](https://plugins.jetbrains.com/plugin/162?pr=idea)
+
+[Key Promoter](https://plugins.jetbrains.com/plugin/?idea&id=4455)
+
+[Android Selector Chapek](https://github.com/inmite/android-selector-chapek)
+
 ### <a name="Guides"></a>Guides
 
 [Android Developer Training](https://developer.android.com/training/index.html)
@@ -203,5 +215,7 @@ A collection of useful Android resources
 ### <a name="Tools"></a>Tools
 
 [Vysor](http://www.vysor.io/)
+
+[Genymotion](https://www.genymotion.com/)
 
 [Device Art Generator](https://developer.android.com/distribute/tools/promote/device-art.html)
