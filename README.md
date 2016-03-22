@@ -66,6 +66,8 @@ A collection of useful Android resources
 
 [Saúl Molinero's Blog](https://saulmm.github.io/)
 
+[Kaushik Gopal's Blog](http://blog.kaush.co/)
+
 ### <a name="Medium"></a>Medium ###
 
 [Google Developer Experts (Medium)](https://medium.com/google-developer-experts)
