@@ -176,6 +176,8 @@ A collection of useful Android resources
 
 [Autocomplete](http://autocomplete.fm/)
 
+[This Developer's Life](http://thisdeveloperslife.com/)
+
 ### <a name="Libraries"></a>Libraries
 
 [Android Arsenal (to look up libraries)](https://android-arsenal.com/)
