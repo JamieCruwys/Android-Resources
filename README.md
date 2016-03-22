@@ -190,6 +190,8 @@ A collection of useful Android resources
 
 [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
 
+[Android Design Tips](http://www.androiddesign.tips/)
+
 [Designers Guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/)
 
 [Shaders - A Primer](http://notes.underscorediscovery.com/shaders-a-primer/)
