@@ -172,6 +172,10 @@ A collection of useful Android resources
 
 [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed)
 
+[Square Island](https://www.youtube.com/channel/UCtdDoUTSw0tkvtro98Xu35g)
+
+[Square Engineering](https://www.youtube.com/channel/UCNpr4Uyoxie4Dxa_RAgpriA)
+
 ### <a name="Podcasts"></a>Podcasts
 
 [Android Developers Backstage Podcast](http://androidbackstage.blogspot.co.uk/)
