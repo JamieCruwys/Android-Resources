@@ -228,6 +228,8 @@ A collection of useful Android resources
 
 [DroidCon NYC](http://droidcon.nyc/)
 
+[Oredev](http://oredev.org/)
+
 ### <a name="Tools"></a>Tools
 
 [Vysor](http://www.vysor.io/)
