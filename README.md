@@ -78,6 +78,8 @@ A collection of useful Android resources
 
 [Orhan Obut (Medium)](https://medium.com/@orhanobut)
 
+[Emma Guy (Medium)](https://medium.com/@emmaguy)
+
 ### <a name="Reddit"></a>Reddit ###
 
 [AndroidDev Reddit](https://www.reddit.com/r/androiddev/)
