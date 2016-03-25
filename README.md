@@ -216,6 +216,8 @@ A collection of useful Android resources
 
 [Pexels Free Stock Photos](https://www.pexels.com/)
 
+[Material Up](http://www.materialup.com/)
+
 ### <a name="Patterns"></a>Patterns
 
 [Android Patterns](http://unitid.nl/androidpatterns/)
