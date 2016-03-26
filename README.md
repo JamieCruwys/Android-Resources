@@ -154,6 +154,8 @@ A collection of useful Android resources
 
 [Android Selector Chapek](https://github.com/inmite/android-selector-chapek)
 
+[Create Intent Inspection](https://github.com/shiraji/create-intent-inspection)
+
 ### <a name="Guides"></a>Guides
 
 [Android Developer Training](https://developer.android.com/training/index.html)
